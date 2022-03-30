@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/CSDN Page View-35K-E65A65.svg" alt="" title="DDDHL的csdn" />
 </a>
  
-<a href="https://cloud.tencent.com/developer/user/8345747/articles">
+<a href="https://gitee.com/donghe-li">
     <img src="https://img.shields.io/badge/Gitee View-0-blue.svg" alt="" title="DDDHL的gitee" />
 </a>
  
