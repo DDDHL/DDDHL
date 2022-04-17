@@ -3,7 +3,7 @@
 ### Hello World! I am <b><a target="_blank" href="javascript:;">DDDHL</a></b>.
  
 - :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
+- :1st_place_medal: I like to develop innovative page.
 - :sun_with_face: What i have achieved.
  
 <a href="https://blog.csdn.net/DDDHL_">
