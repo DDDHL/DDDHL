@@ -7,7 +7,7 @@
 - :sun_with_face: What i have achieved.
  
 <a href="https://blog.csdn.net/DDDHL_">
-    <img src="https://img.shields.io/badge/CSDN Page View-42K-E65A65.svg" alt="" title="DDDHL的csdn" />
+    <img src="https://img.shields.io/badge/CSDN Page View-72K-E65A65.svg" alt="" title="DDDHL的csdn" />
 </a>
  
 <a href="https://gitee.com/donghe-li">
