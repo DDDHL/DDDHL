@@ -2,10 +2,6 @@
  
 ### I am <b><a target="_blank" href="https://blog.csdn.net/DDDHL_">holden</a></b>
  
-- :hearts: . 
-- :1st_place_medal: .
-- :sun_with_face: .
- 
 <a href="https://blog.csdn.net/DDDHL_">
     <img src="https://img.shields.io/badge/CSDN Page View-150K-E65A65.svg" alt="" title="DDDHL的csdn" />
 </a>
